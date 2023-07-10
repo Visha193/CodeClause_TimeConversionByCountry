@@ -1,21 +1,20 @@
-## Time Conversion by Country
+# Time Conversion by Country
 
 This project is a part of the CodeClasue virtual internship and aims to create a time conversion application using JavaFX, Scene Builder, and a Java IDE. The application allows users to convert time between different countries.
 
- Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
-Introduction
+## Introduction
 
 The Time Conversion by Country application provides a user-friendly interface for converting time between different countries. The application utilizes JavaFX and Scene Builder to create an interactive GUI, making it easy for users to input the source country and time and get the converted time for the desired country.
 
-Features
+## Features
 
 - Input the source country and time.
 - Select the target country for time conversion.
@@ -23,7 +22,7 @@ Features
 - Clear the input fields for new conversions.
 - User-friendly GUI for easy navigation.
 
-Technologies
+## Technologies
 
 The project is built using the following technologies:
 
@@ -31,7 +30,7 @@ The project is built using the following technologies:
 - Scene Builder - A visual layout tool for designing JavaFX applications.
 - Java IDE - An integrated development environment for Java programming.
 
-Installation
+## Installation
 
 To run the Time Conversion by Country application, follow these steps:
 
@@ -47,7 +46,7 @@ To run the Time Conversion by Country application, follow these steps:
 
 4. Build and run the application.
 
-Usage
+## Usage
 
 1. Launch the application.
 
@@ -57,8 +56,9 @@ Usage
 
 4. Click the "Convert" button to get the converted time.
 
+5. To clear the input fields, click the "Reset" or "Clear" button.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
 
@@ -71,3 +71,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push your changes to your fork.
 
 5. Submit a pull request.
+
